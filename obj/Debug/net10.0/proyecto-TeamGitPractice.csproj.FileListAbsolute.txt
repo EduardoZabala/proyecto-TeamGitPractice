@@ -31,3 +31,4 @@
 /home/jhonezg/repo/proyecto-TeamGitPractice/obj/Debug/net10.0/proyecto-TeamGitPractice.pdb
 /home/jhonezg/repo/proyecto-TeamGitPractice/obj/Debug/net10.0/proyecto-TeamGitPractice.genruntimeconfig.cache
 /home/jhonezg/repo/proyecto-TeamGitPractice/obj/Debug/net10.0/ref/proyecto-TeamGitPractice.dll
+/home/jhonezg/repo/proyecto-TeamGitPractice/obj/Debug/net10.0/proyecto-TeamGitPractice.sourcelink.json
