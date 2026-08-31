@@ -11,5 +11,11 @@ namespace proyecto_TeamGitPractice.Controllers
         {
             return Ok(new { healthy = true });
         }
+
+        [HttpGet("time")]
+        public IActionResult GetTime()
+        {
+            return Ok(new { utcTime = DateTime.UtcNow });
+        }
     }
 }
