@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hjs4pW68M3o=",
+  "success": true,
+  "projectFilePath": "/home/jhonezg/repo/proyecto-TeamGitPractice/proyecto-TeamGitPractice.csproj",
+  "expectedPackageFiles": [
+    "/home/jhonezg/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/home/jhonezg/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
