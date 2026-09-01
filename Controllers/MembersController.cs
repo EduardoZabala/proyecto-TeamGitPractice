@@ -18,5 +18,9 @@ public class MembersController : ControllerBase
 };
     return Ok(members);
   }
-
+  [HttpGet("count")]
+  public IActionResult GetCount()
+  {
+    return Ok(new { total = 5 });
+  }
 }
