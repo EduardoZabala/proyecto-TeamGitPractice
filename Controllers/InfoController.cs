@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace TeamGitPractice.Controllers;
+namespace proyecto_TeamGitPractice.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
